@@ -1,4 +1,4 @@
-Updated.zip contains a the project, created in gamemaker.
+Updated.zip contains the project, created in gamemaker.
 Controls: 
   WASD - move keys
   E - interact
